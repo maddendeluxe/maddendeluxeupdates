@@ -40,10 +40,10 @@
     {
       "fromVersion": "original",
       "toVersion": "0.4",
-      "patchFileName": "Madden_09_Deluxe_Clean-to-V0.4.xdelta",
+      "patchFileName": "M09Deluxe-v0_4_beta.xdelta",
       "patchSize": 325487872,
       "patchSha256": "9C759D81F723B4075BA50AF400AE4DD3318E73C5FF7A24BC5403375C086017CE",
-      "downloadUrl": "https://github.com/maddendeluxe/maddendeluxeupdates/releases/download/v0.4/Madden_09_Deluxe_Clean-to-V0.4.xdelta"
+      "downloadUrl": "https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.4-beta/M09Deluxe-v0_4_beta.xdelta"
     },
     {
       "fromVersion": "0.1",
