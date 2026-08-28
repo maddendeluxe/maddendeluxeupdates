@@ -1,15 +1,15 @@
 {
   "schemaVersion": 2,
-  "productName": "Madden 09 Deluxe",
-  "latestVersion": "0.4 online-fix",
-  "outputFileName": "Madden 09 Deluxe V0.4 online-fix.iso",
+  "productName": "Madden 12 Deluxe",
+  "latestVersion": "0.4-12",
+  "outputFileName": "Madden 12 Deluxe V0.4.iso",
   "repository": "maddendeluxe/maddendeluxeupdates",
   "versions": [
     {
       "version": "original",
-      "displayName": "Original Madden NFL 09 USA",
-      "fileSize": 1657339904,
-      "sha256": "B34E8A6ACB4BE6C92C238173E9C269BF42DFD3BB4231685052538F3AA82F6427"
+      "displayName": "Original Madden NFL 12 USA",
+      "fileSize": 1586724864,
+      "sha256": "B9C3E7B95527A1E81FAF629B515E8036F71BBD5E05806959944CD602FC3FCDAF"
     },
     {
       "version": "0.1",
@@ -36,10 +36,10 @@
       "sha256": "2198C48BF75AA7E568B03F7252DC5A83756CFF2073B1D750D166E85E991AF19E"
     },
     {
-      "version": "0.4 online-fix",
-      "displayName": "Madden 09 Deluxe V0.4 online-fix",
-      "fileSize": 1846476800,
-      "sha256": "d331c5e40104317768a0ff100476082b2dd499d1758b9a04ba0e0efe4bc1be20"
+      "version": "0.4-12",
+      "displayName": "Madden 12 Deluxe V0.4",
+      "fileSize": 1630994432,
+      "sha256": "D5CEE5A4C5971C5A651F664BD039045771B8DF0ED92458404B604A8E11149154"
     }
   ],
   "updates": [
@@ -77,11 +77,11 @@
     },
     {
       "fromVersion": "original",
-      "toVersion": "0.4 online-fix",
-      "patchFileName": "M09Deluxe-v0_4_beta_onlinefix.xdelta",
-      "patchSize": 325509719,
-      "patchSha256": "1895925b7ca50b6adae30c6330cc350c984ffb5bfa053d1110ecfdd85543c1ae",
-      "downloadUrl": "https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.4-beta/M09Deluxe-v0_4_beta_onlinefix.xdelta"
+      "toVersion": "0.4-12",
+      "patchFileName": "m12deluxe_beta_v0_4.xdelta",
+      "patchSize": 1043284998,
+      "patchSha256": "e283cce0eb6049e830a7f05d814390192fbee7787cbfb7528864b1138c59be0b",
+      "downloadUrl": "https://github.com/maddendeluxe/madden12deluxe/releases/download/v0.4-beta/m12deluxe_beta_v0_4.xdelta"
     }
   ]
 }
