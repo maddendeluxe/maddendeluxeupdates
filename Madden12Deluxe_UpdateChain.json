@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "productName": "Madden 12 Deluxe",
+  "latestVersion": "0.4 online-fix",
+  "outputFileName": "Madden 09 Deluxe V0.4 online-fix.iso",
+  "repository": "maddendeluxe/maddendeluxeupdates",
+  "versions": [
+    {
+      "version": "original",
+      "displayName": "Original Madden NFL 12 USA",
+      "fileSize": 1586724864,
+      "sha256": "B9C3E7B95527A1E81FAF629B515E8036F71BBD5E05806959944CD602FC3FCDAF"
+    },
+      "version": "0.4",
+      "displayName": "Madden 09 Deluxe V0.4",
+      "fileSize": 1630994432,
+      "sha256": "D5CEE5A4C5971C5A651F664BD039045771B8DF0ED92458404B604A8E11149154"
+    }
+  ],
+  "updates": [
+    {
+      "fromVersion": "original",
+      "toVersion": "0.4",
+      "patchFileName": "M09Deluxe-v0_4_beta.xdelta",
+      "patchSize": 325487857,
+      "patchSha256": "0cfdd928d1270cb651c04b22f779cb2e9068619567e8150de22f2b1037907789",
+      "downloadUrl": "https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.4-beta/M09Deluxe-v0_4_beta.xdelta"
+    },
+    {
+      "fromVersion": "0.1",
+      "toVersion": "0.2",
+      "patchFileName": "Madden_09_Deluxe_V0.1-to-V0.2.xdelta",
+      "patchSize": 3632803,
+      "patchSha256": "F30C165E2D557D2CC13ED7181CBBA2541D56F4ECA1116BBA2B859300BAD45759",
+      "downloadUrl": "https://github.com/maddendeluxe/maddendeluxeupdates/releases/download/v0.4/Madden_09_Deluxe_V0.1-to-V0.2.xdelta"
+    },
+    {
+      "fromVersion": "0.2",
+      "toVersion": "0.3",
+      "patchFileName": "Madden_09_Deluxe_V0.2-to-V0.3.xdelta",
+      "patchSize": 352225,
+      "patchSha256": "F4E2C765AFF0BAB9E15326B4295D75D0169A1B690403DAF32C8D1C5E9A10BF4E",
+      "downloadUrl": "https://github.com/maddendeluxe/maddendeluxeupdates/releases/download/v0.4/Madden_09_Deluxe_V0.2-to-V0.3.xdelta"
+    },
+    {
+      "fromVersion": "original",
+      "toVersion": "0.4 online-fix",
+      "patchFileName": "M09Deluxe-v0_4_beta_onlinefix.xdelta",
+      "patchSize": 325509719,
+      "patchSha256": "1895925b7ca50b6adae30c6330cc350c984ffb5bfa053d1110ecfdd85543c1ae",
+      "downloadUrl": "https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.4-beta/M09Deluxe-v0_4_beta_onlinefix.xdelta"
+    }
+  ]
+}
