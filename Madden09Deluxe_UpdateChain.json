@@ -44,14 +44,6 @@
   ],
   "updates": [
     {
-      "fromVersion": "original",
-      "toVersion": "0.4",
-      "patchFileName": "M09Deluxe-v0_4_beta.xdelta",
-      "patchSize": 325487857,
-      "patchSha256": "0cfdd928d1270cb651c04b22f779cb2e9068619567e8150de22f2b1037907789",
-      "downloadUrl": "https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.4-beta/M09Deluxe-v0_4_beta.xdelta"
-    },
-    {
       "fromVersion": "0.1",
       "toVersion": "0.2",
       "patchFileName": "Madden_09_Deluxe_V0.1-to-V0.2.xdelta",
