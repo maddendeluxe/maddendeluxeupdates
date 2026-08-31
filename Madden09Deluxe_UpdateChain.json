@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "productName": "Madden 09 Deluxe",
-  "latestVersion": "0.5",
-  "outputFileName": "Madden 09 Deluxe V0.5.iso",
+  "latestVersion": "0.4 online-fix",
+  "outputFileName": "Madden 09 Deluxe V0.4 online-fix.iso",
   "repository": "maddendeluxe/maddendeluxeupdates",
   "versions": [
     {
@@ -40,23 +40,9 @@
       "displayName": "Madden 09 Deluxe V0.4 online-fix",
       "fileSize": 1846476800,
       "sha256": "d331c5e40104317768a0ff100476082b2dd499d1758b9a04ba0e0efe4bc1be20"
-    },
-    {
-      "version": "0.5",
-      "displayName": "Madden 09 Deluxe V0.5",
-      "fileSize": 1856897024,
-      "sha256": "F9C27DB70DAD38A5EDB2C997545BB7844B48F7F54741E10BBAFC360DA8327649"
     }
   ],
   "updates": [
-    {
-      "fromVersion": "original",
-      "toVersion": "0.5",
-      "patchFileName": "M09Deluxe-v0_5_beta.xdelta",
-      "patchSize": 340321240,
-      "patchSha256": "BFAED52DEF5A8C5F327018C745B36AB023B59488037057C4F92B3B04648ED984",
-      "downloadUrl": "https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.5-beta/M09Deluxe-v0_5_beta.xdelta"
-    },
     {
       "fromVersion": "0.1",
       "toVersion": "0.2",
@@ -80,6 +66,14 @@
       "patchSize": 12023493,
       "patchSha256": "C6B1E28DACE3CD481C383BE811934DD2167888579C557AE00DBD0D8BBA973EEA",
       "downloadUrl": "https://github.com/maddendeluxe/maddendeluxeupdates/releases/download/v0.4/Madden_09_Deluxe_V0.3-to-V0.4.xdelta"
+    },
+    {
+      "fromVersion": "original",
+      "toVersion": "0.4 online-fix",
+      "patchFileName": "M09Deluxe-v0_4_beta_onlinefix.xdelta",
+      "patchSize": 325509719,
+      "patchSha256": "1895925b7ca50b6adae30c6330cc350c984ffb5bfa053d1110ecfdd85543c1ae",
+      "downloadUrl": "https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.4-beta/M09Deluxe-v0_4_beta_onlinefix.xdelta"
     }
   ]
 }
