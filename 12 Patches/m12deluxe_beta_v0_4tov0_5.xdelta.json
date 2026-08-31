@@ -1,0 +1,14 @@
+﻿{
+    "schemaVersion":  1,
+    "createdUtc":  "2026-08-31T11:24:28.4627340Z",
+    "patchFileName":  "m12deluxe_beta_v0_4tov0_5.xdelta",
+    "patchSize":  18137522,
+    "patchSha256":  "D58F2F3098F717EB61F38826B2C77B8A0380026708BA6B3716468E24335BB79E",
+    "sourceFileName":  "Madden 12 Deluxe V0_4.iso",
+    "sourceSize":  1630994432,
+    "sourceSha256":  "D5CEE5A4C5971C5A651F664BD039045771B8DF0ED92458404B604A8E11149154",
+    "targetFileName":  "Madden 12 Mod Experimental.iso",
+    "targetSize":  1645871104,
+    "targetSha256":  "B1DF74DF70704ED946C9C06650ADD536BDFCB2F0C44E46947FB3760663261397",
+    "encoder":  "xdelta3 -e -f -9 -S lzma -B 4294967296 -W 16777216"
+}
