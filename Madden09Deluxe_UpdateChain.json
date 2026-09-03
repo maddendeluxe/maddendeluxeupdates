@@ -94,6 +94,14 @@
       "patchSize": 16123086,
       "patchSha256": "95F5CD17472AC647636B7519907E358FA33579278DF06AA010874F9FFDACBAF8",
       "downloadUrl": "https://github.com/maddendeluxe/maddendeluxeupdates/raw/refs/heads/main/09%20Patches/M09Deluxe-v0_4onlinefixtov0_5_beta.xdelta"
+    },
+    {
+      "fromVersion": "0.5",
+      "toVersion": "0.5.1",
+      "patchFileName": "M09Deluxe-v0_5tov0_5_1_beta.xdelta",
+      "patchSize": 12284,
+      "patchSha256": "FCD98388D299CCCA425AF36E5C7A55BC4197D383790609412E870283B47C6BC0",
+      "downloadUrl": "https://github.com/maddendeluxe/maddendeluxeupdates/raw/refs/heads/main/09%20Patches/M09Deluxe-v0_5tov0_5_1_beta.xdelta"
     }
   ]
 }
