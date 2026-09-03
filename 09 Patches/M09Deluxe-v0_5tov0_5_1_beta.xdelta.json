@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "createdUtc": "2026-09-03T11:26:51.001471Z",
+  "patchFileName": "M09Deluxe-v0_5tov0_5_1_beta.xdelta",
+  "patchSize": 12284,
+  "patchSha256": "FCD98388D299CCCA425AF36E5C7A55BC4197D383790609412E870283B47C6BC0",
+  "sourceFileName": "Madden 09 Deluxe v0.5.iso",
+  "sourceSize": 1856897024,
+  "sourceSha256": "F9C27DB70DAD38A5EDB2C997545BB7844B48F7F54741E10BBAFC360DA8327649",
+  "targetFileName": "Madden 09 Mod.iso",
+  "targetSize": 1856897024,
+  "targetSha256": "FE6BD5E384872A4C0240EFC161AEABC16717813BF17237E7973516D9DCECD095",
+  "encoder": "xdelta3 -e -f -9 -S lzma -B 4294967296 -W 16777216"
+}
