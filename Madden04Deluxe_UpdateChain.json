@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "productName": "Madden 04 Deluxe",
+  "latestVersion": "1.2.1",
+  "outputFileName": "Madden 04 Deluxe V1.2.1.iso",
+  "repository": "maddendeluxe/maddendeluxeupdates",
+  "versions": [
+    {
+      "version": "original",
+      "displayName": "Original Madden NFL 2004 USA",
+      "fileSize": 3207397376,
+      "sha256": "B6488CAF903920CDDD25A9C74E1D2963B505AE302BC2FAED9DFA1A0BFFADCCC5"
+    },
+    {
+      "version": "1.2.1",
+      "displayName": "Madden 04 Deluxe 1.2.1",
+      "fileSize": 1352531968,
+      "sha256": "CB61BC869EC5645F583BB30C708B51BFBC7AC1C19201921AFD645C675C868DEF"
+    }
+  ],
+  "updates": [
+    {
+      "fromVersion": "original",
+      "toVersion": "1.2.1",
+      "patchFileName": "Madden.04.Deluxe.Beta.v1.2.1.xdelta",
+      "patchSize": 944959173,
+      "patchSha256": "2b289d14b11b261e2712c7c03f0df3a9235a981ddc2062e3179c2a783e00fd99",
+      "downloadUrl": "https://github.com/maddendeluxe/madden04deluxe/releases/download/v0.1/Madden.04.Deluxe.Beta.v1.2.1.xdelta"
+    }
+  ]
+}
