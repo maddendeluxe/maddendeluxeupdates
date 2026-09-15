@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "productName": "Madden 04 Deluxe",
-  "latestVersion": "1.2.1",
-  "outputFileName": "Madden 04 Deluxe V1.2.1.iso",
+  "latestVersion": "v0.1-alpha",
+  "outputFileName": "Madden 04 Deluxe Vv0.1-alpha.iso",
   "repository": "maddendeluxe/maddendeluxeupdates",
   "versions": [
     {
@@ -12,20 +12,20 @@
       "sha256": "B6488CAF903920CDDD25A9C74E1D2963B505AE302BC2FAED9DFA1A0BFFADCCC5"
     },
     {
-      "version": "1.2.1",
-      "displayName": "Madden 04 Deluxe 1.2.1",
-      "fileSize": 1352531968,
-      "sha256": "CB61BC869EC5645F583BB30C708B51BFBC7AC1C19201921AFD645C675C868DEF"
+      "version": "v0.1-alpha",
+      "displayName": "Madden 04 Deluxe v0.1-alpha",
+      "fileSize": 1354694656,
+      "sha256": "A4A300BB67FB95015B14062C0EBF3D9F5D2781F01684D4A89B3F10D3BDD0B49A"
     }
   ],
   "updates": [
     {
       "fromVersion": "original",
-      "toVersion": "1.2.1",
-      "patchFileName": "Madden.04.Deluxe.Beta.v1.2.1.xdelta",
-      "patchSize": 944959173,
-      "patchSha256": "2b289d14b11b261e2712c7c03f0df3a9235a981ddc2062e3179c2a783e00fd99",
-      "downloadUrl": "https://github.com/maddendeluxe/madden04deluxe/releases/download/v0.1/Madden.04.Deluxe.Beta.v1.2.1.xdelta"
+      "toVersion": "v0.1-alpha",
+      "patchFileName": "Madden.04.Deluxe.Alpha.v0.1.xdelta",
+      "patchSize": 947149200,
+      "patchSha256": "62683eebbafdefc8656464ac1b37745768470ac7a1336e5a6ba4f3f4eb60e748",
+      "downloadUrl": "https://github.com/maddendeluxe/madden04deluxe/releases/download/v0.1/Madden.04.Deluxe.Alpha.v0.1.xdelta"
     }
   ]
 }
