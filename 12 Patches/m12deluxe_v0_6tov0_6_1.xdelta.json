@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "createdUtc": "2026-09-20T02:00:08.827866Z",
+  "compressionProfile": "Madden 09/12 (PowerShell exact)",
+  "patchFileName": "m12deluxe_v0_6tov0_6_1.xdelta",
+  "patchSize": 9168,
+  "patchSha256": "6EB296B4B52D42926C99E3B3D105BF34AD68F9DD7E223B864F6080D98ED907D9",
+  "sourceFileName": "Madden 12 Deluxe V0_6.iso",
+  "sourceSize": 1671364608,
+  "sourceSha256": "ABD401D1D91DE471F92CFE30888106231297130AF0EBFE102E0EB694925CCD10",
+  "targetFileName": "Madden 12 Deluxe V0_6_1.iso",
+  "targetSize": 1671364608,
+  "targetSha256": "B7B9AB0A7D282EEE80FCA813D17D0C3AF11F43CC280A71429EF48E8BB8B67CC7",
+  "encoder": "xdelta3 -e -f -9 -S lzma -B 4294967296 -W 16777216"
+}
