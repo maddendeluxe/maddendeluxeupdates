@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "productName": "Madden 12 Deluxe",
-  "latestVersion": "0.6",
-  "outputFileName": "Madden 12 Deluxe V0.6.iso",
+  "latestVersion": "0.6.1",
+  "outputFileName": "Madden 12 Deluxe V0.6.1.iso",
   "repository": "maddendeluxe/maddendeluxeupdates",
   "versions": [
     {
@@ -28,16 +28,22 @@
       "displayName": "Madden 12 Deluxe V0.6",
       "fileSize": 1671364608,
       "sha256": "ABD401D1D91DE471F92CFE30888106231297130AF0EBFE102E0EB694925CCD10"
+    },
+    {
+      "version": "0.6.1",
+      "displayName": "Madden 12 Deluxe V0.6.1",
+      "fileSize": 1671364608,
+      "sha256": "23E76995785CD3EE415F87EB00E4AA335293C5B1743CF9F6ACFEF6409D846BB3"
     }
   ],
   "updates": [
     {
       "fromVersion": "original",
-      "toVersion": "0.6",
-      "patchFileName": "Madden 12 Deluxe V0_6.xdelta",
-      "patchSize": 418375195,
-      "patchSha256": "095B0047EEDF12F8DBBC586B3C12FFF383398E95C2B3494A18673DCD544B750E",
-      "downloadUrl": "https://github.com/maddendeluxe/madden12deluxe/releases/download/v0.6-beta/m12deluxe_beta_v0_6.xdelta"
+      "toVersion": "0.6.1",
+      "patchFileName": "m12deluxe_beta_v0_6_1.xdelta",
+      "patchSize": 418373357,
+      "patchSha256": "89224ACAFDCB0D88A47C31AA3C4A4A3832C232EB94E97B0862C4D1855065ADD0",
+      "downloadUrl": "https://github.com/maddendeluxe/madden12deluxe/releases/download/v0.6.1-beta/m12deluxe_beta_v0_6_1.xdelta"
     },
     {
       "fromVersion": "0.4-12",
@@ -49,11 +55,19 @@
     },
     {
       "fromVersion": "0.5",
-      "toVersion": "0.6",
-      "patchFileName": "m12deluxe_v0_5tov0_6.xdelta",
-      "patchSize": 12843725,
-      "patchSha256": "6C943BD3CA15552D38E02C4AD14767D126BC705ED9B4F6469F1B3202DB6104F5",
-      "downloadUrl": "https://github.com/maddendeluxe/maddendeluxeupdates/raw/refs/heads/main/12%20Patches/m12deluxe_beta_v0_5tov0_6.xdelta"
+      "toVersion": "0.6.1",
+      "patchFileName": "m12deluxe_v0_5tov0_6_1.xdelta",
+      "patchSize": 12832789,
+      "patchSha256": "46ECB977E01F814E79C038E8D9A4591FE046F7B21C0E6652F7F56E529FFB0BFB",
+      "downloadUrl": "https://github.com/maddendeluxe/maddendeluxeupdates/raw/refs/heads/main/12%20Patches/m12deluxe_v0_5tov0_6_1.xdelta"
+    },
+    {
+      "fromVersion": "0.6",
+      "toVersion": "0.6.1",
+      "patchFileName": "m12deluxe_v0_6tov0_6_1.xdelta",
+      "patchSize": 12297,
+      "patchSha256": "7D001001F72D895E29326FBC32460039DD80D022B015EE8222C9DB71B71F7BC8",
+      "downloadUrl": "https://github.com/maddendeluxe/maddendeluxeupdates/raw/refs/heads/main/12%20Patches/m12deluxe_v0_6tov0_6_1.xdelta"
     }
   ]
 }
